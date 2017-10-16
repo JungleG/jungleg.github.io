@@ -1,0 +1,27 @@
+# Site settings
+name: 雨倾城的博客
+email: msy1260@sina.com
+author: JungleG
+url: http://jungleg.github.io
+resume_site: http://jungleg.github.io
+github: https://github.com/jungleg/
+baseurl: ""  #根目录
+description: 我们的生命中断之日，才是我们的激情终止之时。
+motto: 太阳和死亡，都不能久视。
+#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
+banner: 人从来不像自己想像的那么幸福，也并非自己想像的那么不幸。
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+excerpt_separator:  '<!-- more -->' #文章摘要
+paginate: 8
+paginate_path: "page:num"
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+github_username: jungleg
+highlighter: rouge
+markdown: kramdown
+FB:
+  comments :
+    provider : disqus
+    disqus :
+        short_name : xiaokedada
