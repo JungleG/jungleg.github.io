@@ -41,6 +41,7 @@ type: page
 *2017.2.28*
 
 - `[+]` 多说评论已挂，添加gitment评论功能 [gitment](https://imsun.net/posts/gitment-introduction/)
+- `[^]` 修改文章摘要分割符改为 `<!--more-->`
 
 ## Comments
 
