@@ -6,7 +6,6 @@ category: 研究生涯
 tags: 
   - JAVA
 time: 2017.10.17 20:33:00
-excerpt: JAVA中抽象类和接口的区别比较，以及它们各自的用途。
 ---
 * content
 {:toc}
